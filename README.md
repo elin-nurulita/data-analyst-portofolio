@@ -26,9 +26,9 @@ This project analyzes warehouse efficiency, error distribution, pickers performa
 - **Shipping balance** — distribute volumes more evenly between Sea and Air methods to reduce bottlenecks.  
 
 ## Files
-- [`picking_data_sepatu.csv`](./picking_data_sepatu.csv) → The dataset
-- [`Data_Cleaning_warehouse_operational_efficiency.ipnyb`](./Data_Cleaning_warehouse_operational_efficiency.ipnyb) → Data cleaning in Python  
-- [`(SQL)_EDA_warehouse_operational_efficiency.ipnyb`](./(SQL)_EDA_warehouse_operational_efficiency.ipnyb) → All SQL queries for EDA
+- `picking_data_sepatu.csv` → The dataset
+- `Data_Cleaning_warehouse_operational_efficiency.ipnyb` → Data cleaning in Python  
+- `(SQL)_EDA_warehouse_operational_efficiency.ipnyb` → All SQL queries for EDA
 - `Report Warehouse Operational Efficiency by Elin Nurulita.pdf` → Full report presentation
 - [Full Report (High Resolution on Google Drive](https://drive.google.com/file/d/15wG_XSQ8QT2u6bkr2YVaaR7q5dZRtT7G/view?usp=sharing)
 - `dashboard_preview.png` → Dashboard snapshot  
