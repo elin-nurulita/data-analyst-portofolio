@@ -23,7 +23,7 @@ To evaluate warehouse operational performance by analyzing order data, item pick
 - Designed dashboard using **Looker Studio** for visual insights.
 
 **Tools:** Python (Pandas, Matplotlib), BigQuery, Looker Studio  
-📁 [View Project](./shoe-warehouse-operational-analysis/)
+📁 [View Project](./shoe-warehouse-analysis/)
 
 ---
 
