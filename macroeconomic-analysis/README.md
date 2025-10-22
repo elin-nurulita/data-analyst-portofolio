@@ -60,7 +60,6 @@ This highlights the complexity of applying traditional models universally across
 
 ## 💻 Technical Notes
 - Data cleaning and transformation conducted using SQL on **Google BigQuery**.  
-- Correlation tests and trend analysis performed for each variable combination.  
 - Summary insights visualized through pivot charts and line trends.
 
 ---
