@@ -18,7 +18,8 @@ Each folder represents one project, complete with datasets, notebooks, and repor
 To evaluate warehouse operational performance by analyzing order data, item picking time, and efficiency rates.
 
 **Highlights:**  
-- Cleaned 50,000+ order records and calculated average picking efficiency.  
+- Cleaned 50,000+ order records using **python**
+- Exploration Data Analysis with **(SQL)BigQuery**
 - Identified peak error rates and analyzed causes per shift.  
 - Designed dashboard using **Looker Studio** for visual insights.
 
