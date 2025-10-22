@@ -1,0 +1,69 @@
+# 📈 Analysis of Inflation, Interest Rate, and Unemployment (2000–2017)
+
+## 📘 Overview
+This project explores the relationship between **inflation (GDP Deflator)**, **unemployment rate (ILO Estimated)**, and **real interest rate** across **266 countries** over a **17-year period (2000–2017)**.  
+The analysis aims to examine whether the empirical data aligns with classical macroeconomic theories or reflects different dynamics in modern economies.
+
+📑 **View the full presentation here:**  
+👉 [Google Slides Report](https://docs.google.com/presentation/d/1s3QbacQRr_hXeFRgGs-NNl5fu_xrOSOKiEZKyS3Ax_M/edit?usp=sharing)
+
+---
+
+## 🎯 Objective
+To analyze how inflation, unemployment, and interest rates interact across countries and years, and determine whether the observed relationships are consistent with the following economic theories:
+
+### 📚 Relevant Theories
+- **Phillips (1958):** There is an inverse relationship between inflation and unemployment.  
+- **Fisher (1930s):** Nominal interest rates move one-to-one with expected inflation.  
+- **Keynes (1936):** High interest rates can reduce investment and increase unemployment.
+
+---
+
+## 🧩 Tools & Data Source
+- **Data Source:** [Kaggle.com](https://www.kaggle.com/) (Global historical macroeconomic data)  
+- **Tool Used:** Google BigQuery for data exploration and correlation analysis  
+- **Scope:** 266 countries, period 2000–2017  
+- **Variables:**
+  - GDP Deflator (% growth) → Inflation rate  
+  - Real Interest Rate (%)  
+  - Unemployment Rate (% of labor force)
+
+---
+
+## 📊 Findings & Insights
+
+Based on cross-country data from 2000–2017:
+- **Inflation and Interest Rate:** Tend to move in *opposite* directions, rather than the one-to-one pattern predicted by the **Fisher Effect**.  
+- **Interest Rate and Unemployment:** Tend to move *together*, indicating possible monetary tightening effects on job markets.  
+
+### 🧠 Possible Explanations:
+1. **Non-traditional monetary policies:**  
+   Central banks may lower interest rates even during inflationary periods to stimulate growth, maintain currency stability, or attract foreign investment.  
+
+2. **Cost-push inflation or external shocks:**  
+   When inflation arises from higher production costs or external pressures, monetary authorities may prioritize economic stability over theoretical rate adjustments.  
+
+3. **Tight monetary policy effects:**  
+   Higher interest rates can increase borrowing costs, reducing investment and employment — explaining the positive link between interest rates and unemployment.  
+
+4. **Structural differences among countries:**  
+   Developing nations often focus on short-term stabilization rather than strict inflation targeting, leading to deviations from classical theory.  
+
+---
+
+## 📈 Conclusion
+The results show that the relationships among inflation, interest rate, and unemployment **do not always follow classical macroeconomic theories**.  
+Instead, they are shaped by **policy decisions, structural factors, and economic context**.  
+This highlights the complexity of applying traditional models universally across diverse economies.
+
+---
+
+## 💻 Technical Notes
+- Data cleaning and transformation conducted using SQL on **Google BigQuery**.  
+- Correlation tests and trend analysis performed for each variable combination.  
+- Summary insights visualized through pivot charts and line trends.
+
+---
+
+⭐ *Explore my other data analysis projects:*  
+👉 [Main Portfolio Repository](https://github.com/elin-nurulita/data-analyst-portofolio)
