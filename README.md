@@ -1,38 +1,53 @@
-# shoe-warehouse-operational-efficiency-analysis
+# 💼 Data Analysis Portfolio
 
-This project analyzes warehouse efficiency, error distribution, pickers performance, shift, and shipping methode efficiency using SQL, Python and Looker Studio
+Hi! I'm **Elin Nurulita** 👋  
+Welcome to my data analysis portfolio — a collection of my projects where I explore data, clean it, analyze insights, and visualize findings using **Python**, **SQL**, and **Looker Studio / Power BI**.
 
-## Objectives
-- Clean the warehouse operation dataset to ensure data accuracy, consistency and reability for futher analysis
-- Perform EDA to identify insight and opportunies for optimizing the performance and efficiency of the operation
-- Develop an interactive dashboard in Looker Studio
+---
 
-## Tools Used
-- BigQuery (SQL)
-- Python (Google Colab)
-- Looker Studio (Dashboard Visualization)
+## 🧠 About This Repository
+This repository is created to showcase my works in data analytics.  
+Each folder represents one project, complete with datasets, notebooks, and reports.
 
-## Key Insights
-- USA accounts for 32% of total errors.
-- Warehouse D shows low efficiency (2.01 items/min).
-- Sea shipping contributes to most errors (3.92%).
-- QC effectively flags all error orders (100% failed).
+---
 
-## Recommendations
-- **Focus process improvement on Warehouse D** — use Warehouse A as a benchmark and redistribute A’s overload to D & E.  
-- **Optimize picker efficiency** — assign Picker 10 as a role model; provide training for low performers (6 & 8); rebalance complex/US-bound orders.  
-- **Shift optimization** — prioritize morning shifts for US orders, increase QC checks & supervision in evening shifts.  
-- **Enhance QC & labeling accuracy** — strengthen preventive checks during picking and labeling to reduce failed QC.  
-- **Shipping balance** — distribute volumes more evenly between Sea and Air methods to reduce bottlenecks.  
+## 📂 Projects
 
-## Files
-- `picking_data_sepatu.csv` → The dataset
-- `Data_Cleaning_warehouse_operational_efficiency.ipnyb` → Data cleaning in Python  
-- `(SQL)_EDA_warehouse_operational_efficiency.ipnyb` → All SQL queries for EDA
-- `Report Warehouse Operational Efficiency by Elin Nurulita.pdf` → Full report presentation
-- [Full Report (High Resolution on Google Drive](https://drive.google.com/file/d/15wG_XSQ8QT2u6bkr2YVaaR7q5dZRtT7G/view?usp=sharing)
-- `dashboard_preview.png` → Dashboard snapshot  
+### 🏭 [Warehouse Efficiency Analysis](./warehouse_analysis/)
+**Objective:**  
+To evaluate warehouse operational performance by analyzing order data, item picking time, and efficiency rates.
 
-## Dashboard Link
-[View Interactive Dashboard on Looker Studio](https://lookerstudio.google.com/reporting/68a980b6-7b72-4570-bf80-95fbc3e20b4c)
+**Highlights:**  
+- Cleaned 50,000+ order records and calculated average picking efficiency.  
+- Identified peak error rates and analyzed causes per shift.  
+- Designed dashboard using **Looker Studio** for visual insights.
 
+**Tools:** Python (Pandas, Matplotlib), BigQuery, Looker Studio  
+📁 [View Project](./shoe-warehouse-operational-analysis/)
+
+---
+
+## 🧩 About Me
+I’m a data enthusiast who loves finding stories behind numbers.  
+Currently learning more about **SQL**, **data visualization**, and **machine learning basics** for business insights.  
+
+🎓 **Education:**  
+Bachelor’s Degree in **Mathematics** from **Diponegoro University (UNDIP)**.  
+
+🧾 **Organizational Experience:**  
+Served as **Secretary of BIRO Statistics INSANI UNDIP**, an organization focused on statistics and research development.  
+- Handled the organization’s **database management** and **research coordination** during my term.  
+- Contributed to data processing and analytical reporting for internal projects.
+
+💡 **Interests & Skills:**  
+- Data Cleaning, Analysis & Visualization  
+- SQL Querying and Database Management  
+- Dashboard Building (Looker Studio, Power BI)  
+- Python (Pandas, NumPy, Matplotlib, Seaborn)
+
+📫 **Connect with me:**  
+[LinkedIn](https://www.linkedin.com/in/elin-nurulita-258b082a7/) | [GitHub](https://github.com/elin-nurulita/)
+
+---
+
+⭐ *Thank you for visiting! Feel free to explore my projects or leave feedback.*
