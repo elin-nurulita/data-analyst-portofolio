@@ -14,7 +14,7 @@ This project analyzes warehouse efficiency, error distribution, pickers performa
 
 ## Key Insights
 - USA accounts for 32% of total errors.
-- Warehouse D shows low efficiency (2.01 items/min).
+- Warehouse D shows low efficiency and high error.
 - Sea shipping contributes to most errors (3.92%).
 - QC effectively flags all error orders (100% failed).
 
