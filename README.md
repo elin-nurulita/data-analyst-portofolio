@@ -13,7 +13,7 @@ Each folder represents one project, complete with datasets, notebooks, and repor
 
 ## 📂 Projects
 
-### 🏭 [Warehouse Efficiency Analysis](./warehouse_analysis/)
+### 🏭 [Warehouse Efficiency Analysis](./shoe-warehouse-analysis/)
 **Objective:**  
 To evaluate warehouse operational performance by analyzing order data, item picking time, and efficiency rates.
 
