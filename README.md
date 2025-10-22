@@ -27,6 +27,39 @@ To evaluate warehouse operational performance by analyzing order data, item pick
 
 ---
 
+### 👗 2. Fashion Sales & Inventory Analysis (Excel)
+**Tools:** Microsoft Excel  
+**Overview:**  
+An end-to-end Excel analysis of sales performance, inventory management, and customer behavior in the fashion retail sector.  
+The project identifies actionable insights for stock optimization, pricing strategy, and quality control.
+
+**Key Insights:**
+- Recommended discontinuing or discounting specific product lines  
+- Identified product return causes and proposed quality control improvements  
+- Derived insights entirely using Excel visualization and formulas  
+
+📑 [Google Slides Report](https://docs.google.com/presentation/d/1zlXgRZtAj7OWkDMc0YQeg72fkM3MrO68ojGMjuNbcYc/edit?usp=drive_link)  
+📊 [View Project →](https://github.com/elin-nurulita/data-analyst-portofolio/tree/main/fashion_analysis)
+
+---
+
+### 📈 3. Macroeconomic Data Analysis: Inflation, Interest Rate, and Unemployment (2000–2017)
+**Tools:** Google BigQuery  
+**Overview:**  
+A cross-country analysis covering 266 countries and 17 years of historical data to explore the interaction between inflation, unemployment, and interest rates.  
+This study evaluates whether real-world data align with classical macroeconomic theories.
+
+**Key Findings:**
+- Inflation and interest rates move in *opposite directions*, differing from Fisher’s theory  
+- Interest rates and unemployment move *together*, showing tightening policy effects  
+- Differences across countries influenced by structural and policy contexts  
+
+📑 [Google Slides Report](YOUR_GSLIDE_LINK_HERE)  
+📊 [View Project →](https://github.com/elin-nurulita/data-analyst-portofolio/tree/main/macroeconomic_analysis)
+
+
+---
+
 ## 🧩 About Me
 I’m a data enthusiast who loves finding stories behind numbers.  
 Currently learning more about **SQL**, **data visualization**, and **machine learning basics** for business insights.  
