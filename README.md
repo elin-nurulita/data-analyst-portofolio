@@ -1,19 +1,19 @@
-# 💼 Data Analysis Portfolio
+# Data Analysis Portfolio
 
-Hi! I'm **Elin Nurulita** 👋  
+Hi! I'm **Elin Nurulita** 
 Welcome to my data analysis portfolio — a collection of my projects where I explore data, clean it, analyze insights, and visualize findings using **Python**, **SQL**, and **Looker Studio / Power BI**.
 
 ---
 
-## 🧠 About This Repository
+## About This Repository
 This repository is created to showcase my works in data analytics.  
 Each folder represents one project, complete with datasets, notebooks, and reports.
 
 ---
 
-## 📂 Projects
+## Projects
 
-### 🏭 [Warehouse Efficiency Analysis](./shoe-warehouse-analysis/)
+### [Warehouse Efficiency Analysis](./shoe-warehouse-analysis/)
 **Objective:**  
 To evaluate warehouse operational performance by analyzing order data, item picking time, and efficiency rates.
 
@@ -28,7 +28,7 @@ To evaluate warehouse operational performance by analyzing order data, item pick
 
 ---
 
-### 👗 2. Fashion Sales & Inventory Analysis (Excel)
+### 2. Fashion Sales & Inventory Analysis (Excel)
 **Tools:** Microsoft Excel  
 **Overview:**  
 An end-to-end Excel analysis of sales performance, inventory management, and customer behavior in the fashion retail sector.  
@@ -44,7 +44,7 @@ The project identifies actionable insights for stock optimization, pricing strat
 
 ---
 
-### 📈 3. Macroeconomic Data Analysis: Inflation, Interest Rate, and Unemployment (2000–2017)
+### 3. Macroeconomic Data Analysis: Inflation, Interest Rate, and Unemployment (2000–2017)
 **Tools:** Google BigQuery  
 **Overview:**  
 A cross-country analysis covering 266 countries and 17 years of historical data to explore the interaction between inflation, unemployment, and interest rates.  
@@ -55,31 +55,31 @@ This study evaluates whether real-world data align with classical macroeconomic 
 - Interest rates and unemployment move *together*, showing tightening policy effects  
 - Differences across countries influenced by structural and policy contexts  
 
-📑 [Google Slides Report](YOUR_GSLIDE_LINK_HERE)  
+📑 [Google Slides Report](https://docs.google.com/presentation/d/1k4BZEp_7irFAeVmDiyMVXCYn6Q9y-Q8jqXprVX4fORs/edit?usp=drivesdk  )
 📊 [View Project →](https://github.com/elin-nurulita/data-analyst-portofolio/tree/main/macroeconomic_analysis)
 
 
 ---
 
-## 🧩 About Me
+## About Me
 I’m a data enthusiast who loves finding stories behind numbers.  
 Currently learning more about **SQL**, **data visualization**, and **machine learning basics** for business insights.  
 
-🎓 **Education:**  
+ **Education:**  
 Bachelor’s Degree in **Mathematics** from **Diponegoro University (UNDIP)**.  
 
-🧾 **Organizational Experience:**  
+ **Organizational Experience:**  
 Served as **Secretary of BIRO Statistics INSANI UNDIP**, an organization focused on statistics and research development.  
 - Handled the organization’s **database management** and **research coordination** during my term.  
 - Contributed to data processing and analytical reporting for internal projects.
 
-💡 **Interests & Skills:**  
+ **Interests & Skills:**  
 - Data Cleaning, Analysis & Visualization  
 - SQL Querying and Database Management  
 - Dashboard Building (Looker Studio, Power BI)  
 - Python (Pandas, NumPy, Matplotlib, Seaborn)
 
-📫 **Connect with me:**  
+**Connect with me:**  
 [LinkedIn](https://www.linkedin.com/in/elin-nurulita-258b082a7/) | [GitHub](https://github.com/elin-nurulita/)
 
 ---
