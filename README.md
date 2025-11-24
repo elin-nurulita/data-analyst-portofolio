@@ -13,7 +13,7 @@ Each folder represents one project, complete with datasets, notebooks, and repor
 
 ## Projects
 
-### [Warehouse Efficiency Analysis](./shoe-warehouse-analysis/)
+### 1. [Warehouse Efficiency Analysis](./shoe-warehouse-analysis/)
 **Objective:**  
 To evaluate warehouse operational performance by analyzing order data, item picking time, and efficiency rates.
 
@@ -28,7 +28,7 @@ To evaluate warehouse operational performance by analyzing order data, item pick
 
 ---
 
-### 2. Fashion Sales & Inventory Analysis (Excel)
+### 2. [Retail Fashion Boutique Analysis](./retail-fashion-boutique-analysis/)
 **Tools:** Microsoft Excel  
 **Overview:**  
 An end-to-end Excel analysis of sales performance, inventory management, and customer behavior in the fashion retail sector.  
@@ -44,7 +44,7 @@ The project identifies actionable insights for stock optimization, pricing strat
 
 ---
 
-### 3. Macroeconomic Data Analysis: Inflation, Interest Rate, and Unemployment (2000–2017)
+### 3. [Macroeconomic Data Analysis: Inflation, Interest Rate, and Unemployment (2000–2017)](./macroeconomic-analysis/)
 **Tools:** Google BigQuery  
 **Overview:**  
 A cross-country analysis covering 266 countries and 17 years of historical data to explore the interaction between inflation, unemployment, and interest rates.  
