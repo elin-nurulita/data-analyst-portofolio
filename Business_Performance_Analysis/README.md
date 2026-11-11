@@ -244,6 +244,9 @@ The final project includes:
 - Three Power BI dashboard pages.
 - Business insights and recommendations.
 
+
+**Data Disclaimer:** This project uses a simulated dataset modeled after realistic business operations. All figures, names, identifiers, and specific information have been modified to protect data confidentiality. The dataset is intended for portfolio and analytical demonstration purposes only.
+
 ---
 
 ## Project Note
